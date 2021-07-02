@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working **as a freelancer**
 
-- 🌱
-
 - 💬 Ask me about **computer hardware**
 
 - 📫 How to reach me **mohammedsinansha397@gmail.com**
