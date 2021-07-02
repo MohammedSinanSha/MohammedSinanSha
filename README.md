@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working **as a freelancer**
 
-- 🌱 I’m currently learning **javascript**
+- 🌱
 
 - 💬 Ask me about **computer hardware**
 
